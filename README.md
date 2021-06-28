@@ -1,6 +1,6 @@
 ## پروژه نمونه برای تست و آشنایی با tailwindcss , react
 
-#ifc co interview 
+# ifc co interview 
 
 ## Available Scripts
 
