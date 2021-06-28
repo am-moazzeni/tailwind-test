@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## پروژه نمونه برای تست و آشنایی با tailwindcss , react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#ifc co interview 
 
 ## Available Scripts
 
